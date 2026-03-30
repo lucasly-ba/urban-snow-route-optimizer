@@ -1,0 +1,8 @@
+Entrez le nombre maximum de déneigeuses: 1
+Entrez le type de déneigeuse (1 ou 2): 2
+
+Estimation pour 1 deneigeuses:
+Trajet des déneigeuses sauvegardée : output/le-plateau-mont-royal_1.mp4
+Distance parcour: 366.9
+Temps total: 18.34h
+Coût total: 1302.89€

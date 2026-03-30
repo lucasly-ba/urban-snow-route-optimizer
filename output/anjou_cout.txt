@@ -1,0 +1,22 @@
+Entrez le nombre maximum de déneigeuses: 5
+Entrez le type de déneigeuse (1 ou 2): 2
+
+Estimation pour 1 deneigeuses:
+Trajet des déneigeuses sauvegardée : output/anjou_1.mp4
+Temps total: 19.92h
+Coût total: 1347.32€
+
+Estimation pour 2 deneigeuses:
+Trajet des déneigeuses sauvegardée : output/anjou_2.mp4
+Temps total: 10.81h
+Coût total: 2112.26€
+
+Estimation pour 3 deneigeuses:
+Trajet des déneigeuses sauvegardée : output/anjou_3.mp4
+Temps total: 7.54h
+Coût total: 2859.62€
+
+Estimation pour 4 deneigeuses:
+Trajet des déneigeuses sauvegardée : output/anjou_4.mp4
+Temps total: 6.1h
+Coût total: 3644.66€

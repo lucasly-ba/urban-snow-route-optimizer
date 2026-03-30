@@ -1,0 +1,12 @@
+Entrez le nombre maximum de déneigeuses: 2
+Entrez le type de déneigeuse (1 ou 2): 1
+
+Estimation pour 1 deneigeuses:
+Trajet des déneigeuses sauvegardée : output/outremont_1.mp4
+Temps total: 11.12h
+Coût total: 635.31€
+
+Estimation pour 2 deneigeuses:
+Trajet des déneigeuses sauvegardée : output/outremont_2.mp4
+Temps total: 6.22h
+Coût total: 1107.5€

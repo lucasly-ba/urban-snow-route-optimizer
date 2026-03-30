@@ -1,0 +1,17 @@
+Entrez le nombre maximum de déneigeuses: 3
+Entrez le type de déneigeuse (1 ou 2): 2
+
+Estimation pour 1 deneigeuses:
+Trajet des déneigeuses sauvegardée : output/verdun_1.mp4
+Temps total: 9.85h
+Coût total: 1190.16€
+
+Estimation pour 2 deneigeuses:
+Trajet des déneigeuses sauvegardée : output/verdun_2.mp4
+Temps total: 5.12h
+Coût total: 1980.72€
+
+Estimation pour 3 deneigeuses:
+Trajet des déneigeuses sauvegardée : output/verdun_3.mp4
+Temps total: 4.22h
+Coût total: 2759.29€

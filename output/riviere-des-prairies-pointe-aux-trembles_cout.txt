@@ -1,0 +1,17 @@
+Entrez le nombre maximum de déneigeuses: 3
+Entrez le type de déneigeuse (1 ou 2): 1
+
+Estimation pour 1 deneigeuses:
+Trajet des déneigeuses sauvegardée : output/riviere-des-prairies-pointe-aux-trembles_1.mp4
+Temps total: 105.68h
+Coût total: 1798.66€
+
+Estimation pour 2 deneigeuses:
+Trajet des déneigeuses sauvegardée : output/riviere-des-prairies-pointe-aux-trembles_2.mp4
+Temps total: 51.92h
+Coût total: 2072.68€
+
+Estimation pour 3 deneigeuses:
+Trajet des déneigeuses sauvegardée : output/riviere-des-prairies-pointe-aux-trembles_3.mp4
+Temps total: 35.81h
+Coût total: 2650.27€

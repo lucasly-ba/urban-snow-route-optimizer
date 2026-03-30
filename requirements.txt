@@ -1,0 +1,11 @@
+networkx
+geopandas
+shapely
+scikit-learn
+osmnx
+matplotlib
+numpy
+pandas
+folium
+tqdm
+unidecode
